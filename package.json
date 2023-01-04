@@ -1,0 +1,25 @@
+{
+  "name": "fastify-neo4j-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkPigeonn/fastify-neo4j-graph.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkPigeonn/fastify-neo4j-graph/issues"
+  },
+  "homepage": "https://github.com/darkPigeonn/fastify-neo4j-graph#readme",
+  "dependencies": {
+    "fastify": "^4.11.0",
+    "fastify-plugin": "^4.4.0",
+    "neo4j-driver": "^5.3.0"
+  }
+}
